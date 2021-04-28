@@ -1,0 +1,20 @@
+Index: src/pre/readme
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/pre/readme	(date 1619571370244)
++++ src/pre/readme	(date 1619571370244)
+@@ -0,0 +1,11 @@
++目前设计
++练习单词与战棋的策略游戏
++1、获取词库
++2、提取词性
++3、单词输入法
++4、词根提取
++5、棋盘展开（从左到右和从上到下）
++6、输入字母，输出字母可以组成的词汇
++7、玩法设计：
++    1）塔防型
++    2）出兵型
+\ No newline at end of file
